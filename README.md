@@ -8,7 +8,7 @@
 <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
 
 
-- 📫 我的公众号: [执行上下文](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI1Mzc0Njc0OQ==&scene=124#wechat_redirect) or [崔欣](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzAxOTE2MDEzNg==&scene=124#wechat_redirect) 
+- 📫 我的公众号: [执行上下文](http://blogimg.lieme.cn/FnCeCWvKbv89jOYXLNoLGN-BPyiz) or [崔欣](http://blogimg.lieme.cn/FnORJd_whuVKFCcPAYOV72_Aottt)
 - 🤒 我的微信: [lecooe](http://blogimg.lieme.cn/FtIiGtys3HEUwPtmPlknXYR-ahIR)
 - 📷 我的博客: [https://lieme.cn](https://lieme.cn)
 - 📝 [掘金](https://juejin.cn/user/835284565232686)
