@@ -11,7 +11,7 @@
 - 📫 我的公众号: [执行上下文](http://blogimg.lieme.cn/FnCeCWvKbv89jOYXLNoLGN-BPyiz) or [崔欣](http://blogimg.lieme.cn/FnORJd_whuVKFCcPAYOV72_Aottt)
 - 🤒 我的微信: [lecooe](http://blogimg.lieme.cn/FtIiGtys3HEUwPtmPlknXYR-ahIR)
 - 📷 我的博客: [https://cuixinxin.cn](https://cuixinxin.cn)
-- 📝 [掘金](https://juejin.cn/user/835284565232686)
+
 
 **技术栈 与 开发工具:**
 
