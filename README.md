@@ -2,13 +2,13 @@
 
 <br />
 
-你好， 我是 [崔欣](https://cuixinxin.cn) ，一个佛系的前端开发工程师。
+你好， 我是 [卖坚果的怪叔叔](https://cuixinxin.cn) ，一个佛系的前端开发工程师。
 
 
 <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
 
 
-- 📫 我的公众号: [执行上下文](http://blogimg.lieme.cn/FnCeCWvKbv89jOYXLNoLGN-BPyiz) or [崔欣](http://blogimg.lieme.cn/FnORJd_whuVKFCcPAYOV72_Aottt)
+- 📫 我的公众号: [执行上下文](http://blogimg.lieme.cn/FnCeCWvKbv89jOYXLNoLGN-BPyiz)
 - 🤒 我的微信: [lecooe](http://blogimg.lieme.cn/FtIiGtys3HEUwPtmPlknXYR-ahIR)
 - 📷 我的博客: [https://cuixinxin.cn](https://cuixinxin.cn)
 
